@@ -1,4 +1,4 @@
-fecha,Mod_comb,NDVI,sup_quemad,sup_arb,sup_pastiz,sup_matorr,w_arb,w_pastiz,w_matorr,rk_Cuenc_F,rk_hist_Cu,rk_hist_us,rk_orograf,rk_peligro,rk_pte,vuln_equip,vuln_forve,vuln_infra,vuln_max,vuln_pathi,LST,rk_combUSIF,rk_combCuencExtr,rk_combCuencSup,Velocidad Viento (m/s),Dirección Viento,Humedad Relativa,Temperatura Máxima,Temperatura Media,ETo acumulada,Precipitación_acumulada
+fecha,Mod_comb,NDVI,sup_quemad,sup_arb,sup_pastiz,sup_matorr,w_arb,w_pastiz,w_matorr,rk_Cuenc_F,rk_hist_Cu,rk_hist_us,rk_orograf,rk_peligro,rk_pte,vuln_equip,vuln_forve,vuln_infra,vuln_max,vuln_pathi,LST,rk_combUSIF,rk_combCuencExtr,rk_combCuencSup,Velocidad_Viento,Dirección_Viento,Humedad_Relativa,Temperatura_Máxima,Temperatura_Media,ETo_acumulada,Precipitación_acumulada
 13/08/2008,7,3747.28,37.9000015,37.9000015,0,0,1,0,0,5,5,2,2,1,1,1,4,2,4,1,39.19,4,4,3,1,310,43,34,23.8,1043.41,487.4
 30/06/2008,4,3981.5,17.0779991,16.0739994,1.0039999,0,0.941211,0.0587891,0,5,5,5,2,3,4,1,4,5,5,1,33.99,5,5,4,1.6,268.8,48.6,38.4,28.9,968.59,658.2
 15/07/2009,1,3811.66,18.0400009,0.18,14.7399998,3.1199999,0.0099778,0.817073,0.172949,3,4,3,3,1,2,1,4,3,4,1,42.45,5,4,4,1.6,240,38,37,26.1,1087.09,411
